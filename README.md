@@ -1,6 +1,6 @@
 # HashCode 2019
 
-Further work on the Google HashCode 2019 problem, in Python. Inspired by work done by Holy Guacamole (see [original](https://github.com/ChrisBertrand/hash19) and [fork](https://github.com/Danjb1/google-hashcode-2019)).
+Further work on the Google HashCode 2019 problem. Inspired by work done by Holy Guacamole (see [original](https://github.com/ChrisBertrand/hash19) and [fork](https://github.com/Danjb1/google-hashcode-2019)).
 
 Original Holy Guacamole team members, besides me:
 - [**@ChrisBertrand**](https://github.com/ChrisBertrand)
